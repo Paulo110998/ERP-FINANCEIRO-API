@@ -8,8 +8,7 @@ Este projeto é uma API REST para um ERP Financeiro, desenvolvido com ASP.NET Co
 
 - **Linguagem**: C#
 - **Framework**: .NET 8, ASP.NET Core
-- **ORM**: Entity Framework Core
-- **Configuração**: Fluent API
+- **ORM**: Entity Framework Core e Fluent API
 - **Consultas**: LINQ
 - **Autenticação**: Identity e JWT
 - **Arquitetura**: Injeção de dependências, Princípios SOLID
